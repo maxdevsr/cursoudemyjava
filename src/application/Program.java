@@ -6,6 +6,8 @@ import java.util.Scanner;
 public class Program {
 
 	public static void main(String[] args) {
+		
+		//Calcular a area de 2 triangulos e informar o com maior area
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
